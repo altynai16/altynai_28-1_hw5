@@ -1,0 +1,2 @@
+import casino
+casino.casino()

@@ -1,0 +1,10 @@
+/Lib
+/Scripts
+pyvenv.cfg
+/__pycache__
+/.idea
+altynai_28-1_hw1.py
+altynai_28-1_hw2.py
+altynai_28-1_hw3.py
+altynai_28-1_hw4.py
+main.py
